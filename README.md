@@ -33,11 +33,6 @@ Sistema de base de datos diseñado para compañías de seguros médicos que perm
 ---
 
 *Proyecto desarrollado bajo estándares HL7/FHIR para el sector salud.*
-### Documentación Incluida
-- Diagrama ERD completo
-- Scripts SQL de implementación
-- Documentación técnica detallada
-- Casos de uso del negocio
 
 ---
 
