@@ -34,6 +34,3 @@ Sistema de base de datos diseñado para compañías de seguros médicos que perm
 
 *Proyecto desarrollado bajo estándares HL7/FHIR para el sector salud.*
 
----
-
-*Proyecto desarrollado bajo estándares HL7/FHIR para el sector salud.*
