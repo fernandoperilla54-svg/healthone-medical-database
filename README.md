@@ -23,11 +23,6 @@ Sistema de base de datos diseñado para compañías de seguros médicos que perm
 - SQL Avanzado
 - Python (ETL y automatización)
 - Power BI (Dashboards y reporting)
-### Tecnologías Utilizadas
-- PostgreSQL
-- SQL Avanzado
-- Python (ETL y automatización)
-- Power BI (Dashboards y reporting)
 
 ### Documentación Incluida
 - Diagrama ERD completo
